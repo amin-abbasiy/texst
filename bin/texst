@@ -1,0 +1,2 @@
+require 'texst'
+puts Texst::Format::Program.start(ARGV[0])
